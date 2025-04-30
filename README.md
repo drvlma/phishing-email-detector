@@ -12,6 +12,8 @@ This is a lightweight phishing email logging and detection tool built in Google 
 - Google Sheets
 - Google Apps Script (JavaScript-based)
 
+## Demo
+![Screenshot](https://github.com/user-attachments/assets/d0f00bca-8872-4e3e-9322-3c58ddc4b9b5)
 
 ## 🔗 Spreadsheet Template
 You can view or make a copy of the phishing detection tool here:  
